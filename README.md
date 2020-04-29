@@ -1,3 +1,3 @@
 # test_images
 
-![image-w150](https://i.loli.net/2020/04/29/STGwYt9OV2vBLk5.jpg)
+<img src="https://i.loli.net/2020/04/29/STGwYt9OV2vBLk5.jpg" width="100px" height="100px" />
