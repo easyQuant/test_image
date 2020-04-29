@@ -1,3 +1,3 @@
 # test_images
 
-![image](https://github.com/easyQuant/test_images/blob/master/wxAccount.jpeg)
+![image](https://i.loli.net/2020/04/29/STGwYt9OV2vBLk5.jpg)
